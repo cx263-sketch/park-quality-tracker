@@ -15,7 +15,7 @@ How to Run
 
 3. Run the app:
    source("Park Quality Tracker.R")
-   # or in RStudio: Click "Run App"
+   or in RStudio: Click "Run App"
 
 Secure Database Connection
 
